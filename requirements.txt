@@ -5,3 +5,4 @@ Flask-Migrate==4.0.5
 python-dotenv
 Flask-Migrate
 flask-livereload
+pymysql
